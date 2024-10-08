@@ -307,7 +307,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .background-header {
-  background-image: url('../img/background/devops.jpg'); /* Replace with your image path */
+  background-image: url('../img/background/aws.jpg'); /* Replace with your image path */
   background-size: cover;  /* Ensures the background covers the whole area */
   background-position: center;  /* Centers the image */
   background-repeat: no-repeat; /* Ensures the image doesn't repeat */
